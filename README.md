@@ -1,0 +1,1 @@
+# symplify-composer-json-manipulator
